@@ -1,0 +1,121 @@
+:root{
+    --color-info:#edf16e;
+    --color-mates:#6EBFF1;
+    --color-bio:#ED4242;
+    --color-ef:#A8A8A8;
+    --color-caste:#E29A39;
+    --color-reli:#C055BB;
+    --color-his:#6A0C0C;
+    --color-ingles:#AE61FF;
+    --color-fiq:#4BB114;
+    --color-tecno:#616161;
+    --color-valen:#B900B9;
+    --color-tuto:#000000;
+}
+.colorinfo{
+    background-color: var(--color-info);
+    width: 50px;
+}
+.colormate{
+    background-color: var(--color-mates);
+    width: 50px;
+}
+.colorbio{
+    background-color: var(--color-bio);
+    width: 50px;
+}
+.coloref{
+    background-color: var(--color-ef);
+    width: 50px;
+}
+.colorcaste{
+    background-color: var(--color-caste);
+    width: 50px;
+}
+.colorreli{
+    background-color: var(--color-reli);
+    width: 50px;
+}
+.colorhis{
+    background-color: var(--color-his);
+    width: 50px;
+}
+.coloringles{
+    background-color: var(--color-ingles);
+    width: 50px;
+}
+.colorfiq{
+    background-color: var(--color-fiq);
+    width: 50px;
+}
+.colortecno{
+    background-color: var(--color-tecno);
+    width: 50px;
+}
+.colorvalen{
+    background-color: var(--color-valen);
+    width: 50px;
+}
+.colortuto{
+    background-color: var(--color-tuto);
+    width: 50px;
+}
+.info{
+    background-color: var(--color-info);
+}
+.mate{
+    background-color: var(--color-mates);
+}
+.bio{
+    background-color: var(--color-bio);
+}
+.ef{
+    background-color: var(--color-ef);
+}
+.caste{
+    background-color: var(--color-caste);
+}
+.reli{
+    background-color: var(--color-reli);
+}
+.his{
+    background-color: var(--color-his);
+    color: white;
+}
+.ingles{
+    background-color: var(--color-ingles);
+}
+.fiq{
+    background-color: var(--color-fiq);
+}
+.tecno{
+    background-color: var(--color-tecno);
+}
+.valen{
+    background-color: var(--color-valen);
+}
+.tuto{
+    background-color: var(--color-tuto);
+    color: white;
+}
+.tabla-horario{
+    border-collapse: collapse;
+    text-align: center;
+    margin: 10px;
+}
+.tabla-horario td, .tabla-horario th{
+    border: 1px solid black;
+    padding: 5px;
+}
+.dias th{
+    background-color:#00FFB2;
+}
+#horario{
+    background-color:#C9FF00;
+}
+.horas{
+    background-color:#00FF42;
+}
+body{
+    font-family: 'Caveat', cursive;
+}
